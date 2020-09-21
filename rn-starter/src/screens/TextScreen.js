@@ -8,6 +8,7 @@ const TextScreen = () => {
         style={styles.input}
         autoCapitalize="none"
         autoCorrect={false}
+        value="hi there"
       />
     </View>
   );
